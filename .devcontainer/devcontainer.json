@@ -3,9 +3,9 @@
 
   "customizations": {
     "vscode": {
-      "extensions": {
+      "extensions": [
         "GitHub.copilot"
-      }
+      ]
     }
   }
 }
